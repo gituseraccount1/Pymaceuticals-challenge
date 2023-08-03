@@ -1,1 +1,3 @@
 # Pymaceuticals-challenge
+
+We tested 10 different drug regimens on a total of 248 mice that were identify with squamous cell carcinoma (SCC). We want to see which drug regimen has the potential to treat SCC. From the analysis of the results, you will see how which drug regimen is the best out. We are particularly drug regimen we are interested in is  Capomulin, so we will be analysis this against the other drug regimens.
